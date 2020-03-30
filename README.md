@@ -1,6 +1,7 @@
 # MotivateMe
 ### Covid-19 Hackathon Entry
 ---
+Check out the demo video here: https://www.youtube.com/watch?v=71mE2m3XgxA&feature=emb_title
 Support our entry here: https://devpost.com/software/motivator-app
 
 ## Inspiration
