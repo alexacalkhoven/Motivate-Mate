@@ -1,6 +1,8 @@
 # MotivateMe
 ### Covid-19 Hackathon Entry
 ---
+Support our entry here: https://devpost.com/software/motivator-app
+
 ## Inspiration
 As students, we know how hard it is to stay focussed on your schoolwork in normal circumstances, let alone when under quarantine. We wanted to create something to help students learn in these tough times.
 
