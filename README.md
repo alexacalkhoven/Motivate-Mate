@@ -25,7 +25,7 @@ Another specific place where we were proud as a team was in our planning efforts
 ## What we learned
 A lot of skills were learned in the process of creating MotivateMate. For a couple members of the team, this was a first experience using GitHub for a larger-scale project. We were able to get the hang of it after a bit of a learning curve. Otherwise, we also learned about JavaFX and how to use it for our user interface.
 
-## What's next for Motivator App
+## What's next for MotivateMate
 In the future, we would love to perfect MotivateMate. Right now, MotivateMate is an application that can only be run on a computer, but we would love to see it work on mobile too. Additionally, we would like to add features to allow students to connect with their friends, adding another angle for motivation.
 
 ## Credits
